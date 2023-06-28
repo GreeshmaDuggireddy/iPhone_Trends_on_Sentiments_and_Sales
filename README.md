@@ -3,7 +3,7 @@
 ## Abstract
 
 Apple events are one of the most awaited and talked about events of the year. '#Apple',
-'#iPhone', and a few others keep trending at and around the time of apple events. The recent release
+'#iPhone', and a few others keep trending at and around the time of Apple events. The recent release
 of the iPhone 14 and its models have sparked the interest of the general public and critics on social
 media. The text analysis of the iPhone 14 and its models will be rather interesting. We wanted to
 analyze the Apple company's brand power based on people's opinions and the sales of iPhones.
@@ -39,8 +39,7 @@ EDA, VADER Sentiment Analysis, BERT - Transformers, Topic Modeling, Sales Data
 
 In the project, two models of sentiment analysis were performed to analyze the sentiments
 as accurately as possible. The BERT sentiment analysis gave better outputs than the VADER
-sentiment analysis where some outputs were skewed. From the analysis of both the iPhone models
-- 13 and 14, we can conclude that both models received hate before and after their releases. Despite
+sentiment analysis where some outputs were skewed. From the analysis of both iPhone models 13 and 14, we can conclude that both models received hate before and after their releases. Despite
 public opinions and criticisms, the sales of the iPhones have been increasing year after year. We
 can conclude that brand images have a greater effect on sales rather than public opinions and
 criticisms when it comes to Apple.
